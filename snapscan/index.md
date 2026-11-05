@@ -1,9 +1,5 @@
 # SnapScan – Privacy Policy
 
-**Effective Date:** November 4, 2026
-
-**Developer:** Waseem Ashraf
-
 SnapScan is a document scanning application that helps you scan, enhance, organize, and export documents as PDF files or images.
 
 Your privacy matters to us. This Privacy Policy explains what information SnapScan accesses, how it is used, where it is stored, and how you can manage or delete it.
